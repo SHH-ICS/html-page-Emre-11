@@ -2,12 +2,10 @@
 p {
   font-family: verdana;
   font-size: 50px;
-
-
-  body {
-  background-color: lightblue;
-}
-p {
   color: red;
   text-align: center;
-} 
+}
+
+ body {
+  background-color: lightblue;
+}
